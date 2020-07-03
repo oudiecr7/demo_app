@@ -1,0 +1,24 @@
+{
+  "name": "demo-app01",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "package": "^1.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oudiecr7/demo_app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oudiecr7/demo_app/issues"
+  },
+  "homepage": "https://github.com/oudiecr7/demo_app#readme",
+  "description": ""
+}
